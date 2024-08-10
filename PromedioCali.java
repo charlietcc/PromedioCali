@@ -6,6 +6,10 @@ public class PromedioCali {
    * Este programa fue creado para realizar el promedio de sus cuatro examenes.
    *@author Juan Carlos Tubac Coj
    *@since 2024-08-02
+   *
+   *
+   *
+   *ESTE ES LA PRIMERA MODIFICACION QUE ME PORMITIO POR ERRORES EN LA AUTENTICACION DE GITHUB
    */
 
     public static void main(String[] args) {
